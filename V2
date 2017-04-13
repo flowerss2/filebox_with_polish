@@ -46,7 +46,7 @@ img,form,h1,h2,p{}
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#"><span style="color:#28A9FF"><i class="glyphicon glyphicon-modal-window"></i> </span> FileBox </a>
+        <a class="navbar-brand" href="#"><span style="color:#2198FD"><i class="glyphicon glyphicon-modal-window"></i>  FileBox </span></a>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
