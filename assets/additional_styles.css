@@ -13,7 +13,10 @@ body {
 .padding-inside-top-sm {
   padding-top: 20px;
 }
-
+.grey-background {
+  background-color: #fcfcfc;
+  padding-top: #fcfcfc;
+}
 .padding-inside-top-md {
   padding-top: 50px;
 }
@@ -21,7 +24,25 @@ body {
 .padding-inside-top-lg {
   padding-top: 150px;
 }
-
+.padding-inside-top-lg2 {
+  padding-top: 75px;
+  background-color: #fcfcfc;
+  padding-bottom: 75px;
+}
+.padding-inside-top-lg3 {
+  padding-top: 75px;
+  background-color: #fcfcfc;
+  padding-bottom: 75px;
+}
+.wide {
+    text-align:left;
+    font-weight:bold;
+    background:#ebebeb;
+    margin-left:-100%;
+    margin-right:-100%;
+    margin-bottom: 60px;
+    height: 465px;
+    }
 .padding-inside-top-xl {
   padding-top: 200px;
 }
